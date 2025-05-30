@@ -9,4 +9,5 @@ pip install numpy
 pip install pyautogui
 pip install pynput
 ```
-Accept a quest, then run autoFarming.py
+Set the game language to English, accept a quest, then run autoFarming.py
+(Some loops below may look redundant, but they are necessary to ensure the script works stably.)
